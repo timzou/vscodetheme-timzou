@@ -1,0 +1,21 @@
+{
+    "name": "TimZou",
+    "displayName": "TimZouYYDS",
+    "description": "personal theme for TimZou",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TimZou",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TimZou-color-theme.json"
+            }
+        ]
+    }
+}
